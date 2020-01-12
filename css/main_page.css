@@ -1,3 +1,5 @@
 .bg-patten1{
+    padding: 42px 0;
     background : url('/img/patten1.png');
 }
+aside{ padding:0; }
