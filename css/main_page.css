@@ -8,7 +8,7 @@ aside{ padding:0; }
     color:#F05F40;
 }
 .service-box p i{
-    margin-bottom:10px;
+    margin-bottom:0.5em;
 }
 .service-box p i img{
     width:100%;
@@ -20,6 +20,7 @@ aside{ padding:0; }
     #skills .col-md-6 i img{
         width:25%;
         height:25%;
+        margin-bottom:0.5em;
     }
 }
 @media (min-width: 992px){
