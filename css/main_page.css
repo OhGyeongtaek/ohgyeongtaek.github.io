@@ -15,9 +15,6 @@ aside{ padding:0; }
     height:100%;
     border-radius:20%;
 }
-#skills .col-md-6 {
-    min-height: auto;
-}
 @media (min-width: 460px){
     #skills .col-md-6 i img{
         width:25%;
@@ -34,4 +31,7 @@ aside{ padding:0; }
         height:100%;
         margin-bottom:0.5em;
     }
+}
+#skills .col-md-6 {
+    min-height: auto;
 }
