@@ -1,0 +1,12 @@
+# Site settings
+title : Oh Gyeong Taek blog
+email: rudxor97@naver.com
+description: Oh Gyeong Taek blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://ohgyeongtaek.github.io/" # the base hostname & protocol for your site
+
+#twitter_username:
+github_username: OhGyeongTaek
+
+# Build settings
+markdown: kramdown
