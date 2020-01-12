@@ -3,3 +3,7 @@
     background : url('/img/patten1.png');
 }
 aside{ padding:0; }
+
+.service-box h3{
+    color:#F05F40;
+}
