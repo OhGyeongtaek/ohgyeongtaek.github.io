@@ -32,8 +32,3 @@ aside{ padding:0; }
         margin-bottom:0.5em;
     }
 }
-@media (min-width: 993px){
-    #skills .col-md-6 {
-        min-height: auto;
-    }
-}
