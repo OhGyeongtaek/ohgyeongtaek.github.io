@@ -4,6 +4,7 @@ email: rudxor97@naver.com
 description: Oh Gyeong Taek blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ohgyeongtaek.github.io/" # the base hostname & protocol for your site
+phone_number : 010-2949-3913
 
 #twitter_username:
 github_username: Oh Gyeong Taek
